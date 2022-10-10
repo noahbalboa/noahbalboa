@@ -1,10 +1,5 @@
-Learning c++ from a couple sources (some MIT archives and Udemy). 
-
-Still in school so im not doing a CS degree just yet.
-
-I plan on showing all the stuff im working on, so i can see my progression.
-
-I have plans to work/ live in Japan after school.
+IN TUD studying computer science 
+using this to keep track of everything ive studied
 
 
 <!---
